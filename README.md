@@ -9,7 +9,7 @@ It's time to put all of the HTML knowledge you have been acquiring so far into p
 
 Odin added extra html fundamentals <a href="https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes" rel="_blank">here</a>. 
 
-[See my recipe page here!](aron-helu.github.io)
+[See my recipe page here!](https://aron-helu.github.io/)
 © 2022 GitHub, Inc.
 Terms
 Privacy
